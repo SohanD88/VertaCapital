@@ -1,4 +1,3 @@
-// ContactPage.js
 import React from "react";
 import { withRotate, withHover, withRandomColor } from "./animations";
 
